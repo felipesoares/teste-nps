@@ -1,3 +1,3 @@
 # Teste NPS
 
-[Página](https://felipesoares.herokuapp.com/teste-nps/) simples feita em React e Materialize que simula um formulário NPS.
+[Página simples](https://felipesoares.herokuapp.com/teste-nps/) feita em React e Materialize que simula um formulário NPS.
