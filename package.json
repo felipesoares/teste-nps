@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Página simples feita em React e Materialize que simula um formulário NPS.",
   "author": "Felipe Soares",
-  "homepage": "https://felipesoares.herokuapp.com/teste-nps/",
+  "homepage": "https://felipesoares.herokuapp.com/testes/nps/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^3.9.3",
